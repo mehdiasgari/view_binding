@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">viewBinding</string>
+    <string name="enter_dollar_mount">Enter Dollar Mount</string>
+    <string name="euros">Euros</string>
+    <string name="convert">Convert</string>
 </resources>
